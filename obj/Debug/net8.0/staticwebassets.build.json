@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "GoVqM0YYb6CiwbLKQgb09qKLcFdzdnb7uDSyEowdSCc=",
+  "Source": "OrderApi",
+  "BasePath": "_content/OrderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrderApi/wwwroot",
+      "Source": "OrderApi",
+      "ContentRoot": "/Users/mariapaz/OrderApi/wwwroot/",
+      "BasePath": "_content/OrderApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
